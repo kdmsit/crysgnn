@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sc3Al3C2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27649483
+_cell_length_b   3.27649483
+_cell_length_c   31.81193400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Al3C2O5
+_chemical_formula_sum   'Sc6 Al6 C4 O10'
+_cell_volume   295.76011436
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.33333300  0.66666700  0.65907900  1
+  Sc  Sc1  1  0.66666700  0.33333300  0.15907900  1
+  Sc  Sc2  1  0.66666700  0.33333300  0.34092100  1
+  Sc  Sc3  1  0.33333300  0.66666700  0.84092100  1
+  Sc  Sc4  1  0.00000000  0.00000000  0.50000000  1
+  Sc  Sc5  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al6  1  0.00000000  0.00000000  0.75000000  1
+  Al  Al7  1  0.00000000  0.00000000  0.25000000  1
+  Al  Al8  1  0.33333300  0.66666700  0.43145500  1
+  Al  Al9  1  0.66666700  0.33333300  0.93145500  1
+  Al  Al10  1  0.66666700  0.33333300  0.56854500  1
+  Al  Al11  1  0.33333300  0.66666700  0.06854500  1
+  C  C12  1  0.66666700  0.33333300  0.45414300  1
+  C  C13  1  0.33333300  0.66666700  0.95414300  1
+  C  C14  1  0.33333300  0.66666700  0.54585700  1
+  C  C15  1  0.66666700  0.33333300  0.04585700  1
+  O  O16  1  0.33333300  0.66666700  0.37300800  1
+  O  O17  1  0.66666700  0.33333300  0.87300800  1
+  O  O18  1  0.66666700  0.33333300  0.62699200  1
+  O  O19  1  0.33333300  0.66666700  0.12699200  1
+  O  O20  1  0.33333300  0.66666700  0.75000000  1
+  O  O21  1  0.66666700  0.33333300  0.25000000  1
+  O  O22  1  0.00000000  0.00000000  0.80908600  1
+  O  O23  1  0.00000000  0.00000000  0.30908600  1
+  O  O24  1  0.00000000  0.00000000  0.19091400  1
+  O  O25  1  0.00000000  0.00000000  0.69091400  1

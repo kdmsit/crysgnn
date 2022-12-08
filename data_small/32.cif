@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11760415
+_cell_length_b   5.11760415
+_cell_length_c   5.11760415
+_cell_angle_alpha   149.43402666
+_cell_angle_beta   125.52486939
+_cell_angle_gamma   63.76202469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiRh3
+_chemical_formula_sum   'Li1 Rh3'
+_cell_volume   54.91981130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98473500  0.00000000  0.98473500  1
+  Rh  Rh1  1  0.49454800  0.50000000  0.99454800  1
+  Rh  Rh2  1  0.55322300  0.24436400  0.30885900  1
+  Rh  Rh3  1  0.06449500  0.75563600  0.30885900  1
