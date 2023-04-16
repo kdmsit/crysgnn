@@ -1,0 +1,9 @@
+executable  = run_prop.sh
+request_memory  = 12 GB
+request_gpus    = 2
+log         = optb88vdw_total_energy.log
+output      = optb88vdw_total_energy.out
+error       = optb88vdw_total_energy.err
+stream_output = True
+stream_error = True
+queue
