@@ -103,6 +103,14 @@ If you have any query about CrysGNN, please contact me at [kishalaydas@kgpian.ii
 If you are using CrysGNN, please cite our work as follow :
 
 ```
-@article{}
+@article{Das_Samanta_Goyal_Lee_Bhattacharjee_Ganguly_2023, 
+title={CrysGNN: Distilling Pre-trained Knowledge to Enhance Property Prediction for Crystalline Materials}, 
+volume={37}, 
+url={https://ojs.aaai.org/index.php/AAAI/article/view/25892}, 
+DOI={10.1609/aaai.v37i6.25892}, number={6}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+author={Das, Kishalay and Samanta, Bidisha and Goyal, Pawan and Lee, Seung-Cheol and Bhattacharjee, Satadeep and Ganguly, Niloy}, 
+year={2023}, month={Jun.}, pages={7323-7331} 
+}
 ```
 
