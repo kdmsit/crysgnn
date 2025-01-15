@@ -1,0 +1,51 @@
+data_image0
+_cell_length_a       9.60489
+_cell_length_b       9.60489
+_cell_length_c       9.60489
+_cell_angle_alpha    98.1811
+_cell_angle_beta     98.1811
+_cell_angle_gamma    81.8189
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  S1       1.0000 0.79400  0.79400  0.20600  Biso   1.000  S 
+  S2       1.0000 0.12500  0.45700  0.20900  Biso   1.000  S 
+  S3       1.0000 0.42400  0.08970  0.24200  Biso   1.000  S 
+  S4       1.0000 0.46000  0.46000  0.54000  Biso   1.000  S 
+  S5       1.0000 0.79100  0.12500  0.54300  Biso   1.000  S 
+  S6       1.0000 0.08970  0.75800  0.57600  Biso   1.000  S 
+  S7       1.0000 0.13500  0.13500  0.86500  Biso   1.000  S 
+  S8       1.0000 0.45700  0.79100  0.87500  Biso   1.000  S 
+  S9       1.0000 0.75800  0.42400  0.91000  Biso   1.000  S 
+  Tl1      1.0000 0.63500  0.00069  0.02990  Biso   1.000  Tl
+  Tl2      1.0000 0.33900  0.30700  0.03400  Biso   1.000  Tl
+  Tl3      1.0000 0.23500  0.91200  0.05920  Biso   1.000  Tl
+  Tl4      1.0000 0.94100  0.23500  0.08810  Biso   1.000  Tl
+  Tl5      1.0000 0.57300  0.60200  0.09590  Biso   1.000  Tl
+  Tl6      1.0000 0.63700  0.30100  0.33200  Biso   1.000  Tl
+  Tl7      1.0000 0.30100  0.66800  0.36300  Biso   1.000  Tl
+  Tl8      1.0000 0.00069  0.97000  0.36500  Biso   1.000  Tl
+  Tl9      1.0000 0.90400  0.57300  0.39800  Biso   1.000  Tl
+  Tl10     1.0000 0.60200  0.90400  0.42700  Biso   1.000  Tl
+  Tl11     1.0000 0.24100  0.26700  0.42900  Biso   1.000  Tl
+  Tl12     1.0000 0.30700  0.96600  0.66100  Biso   1.000  Tl
+  Tl13     1.0000 0.96600  0.33900  0.69300  Biso   1.000  Tl
+  Tl14     1.0000 0.66800  0.63700  0.69900  Biso   1.000  Tl
+  Tl15     1.0000 0.57100  0.24100  0.73300  Biso   1.000  Tl
+  Tl16     1.0000 0.26700  0.57100  0.75900  Biso   1.000  Tl
+  Tl17     1.0000 0.91200  0.94100  0.76500  Biso   1.000  Tl
+  Tl18     1.0000 0.97000  0.63500  0.99900  Biso   1.000  Tl

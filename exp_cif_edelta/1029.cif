@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       4.74059
+_cell_length_b       8.04413
+_cell_length_c       8.04413
+_cell_angle_alpha    112.689
+_cell_angle_beta     94.1174
+_cell_angle_gamma    94.1174
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  F1       1.0000 0.64700  0.68000  0.08050  Biso   1.000  F 
+  F2       1.0000 0.39500  0.13500  0.13500  Biso   1.000  F 
+  F3       1.0000 0.13000  0.58100  0.17600  Biso   1.000  F 
+  F4       1.0000 0.62500  0.47400  0.27700  Biso   1.000  F 
+  F5       1.0000 0.35300  0.91900  0.32000  Biso   1.000  F 
+  F6       1.0000 0.10800  0.37100  0.37100  Biso   1.000  F 
+  F7       1.0000 0.87000  0.82400  0.41900  Biso   1.000  F 
+  F8       1.0000 0.62500  0.27700  0.47400  Biso   1.000  F 
+  F9       1.0000 0.37500  0.72300  0.52600  Biso   1.000  F 
+  F10      1.0000 0.13000  0.17600  0.58100  Biso   1.000  F 
+  F11      1.0000 0.89200  0.62900  0.62900  Biso   1.000  F 
+  F12      1.0000 0.64700  0.08050  0.68000  Biso   1.000  F 
+  F13      1.0000 0.37500  0.52600  0.72300  Biso   1.000  F 
+  F14      1.0000 0.87000  0.41900  0.82400  Biso   1.000  F 
+  F15      1.0000 0.60500  0.86500  0.86500  Biso   1.000  F 
+  F16      1.0000 0.35300  0.32000  0.91900  Biso   1.000  F 
+  O1       1.0000 0.87400  0.22600  0.02650  Biso   1.000  O 
+  O2       1.0000 0.87400  0.02650  0.22600  Biso   1.000  O 
+  O3       1.0000 0.12600  0.97300  0.77400  Biso   1.000  O 
+  O4       1.0000 0.12600  0.77400  0.97300  Biso   1.000  O 
+  W1       1.0000 0.00000  0.80100  0.19900  Biso   1.000  W 
+  W2       1.0000 0.75300  0.25300  0.25300  Biso   1.000  W 
+  W3       1.0000 0.24700  0.74700  0.74700  Biso   1.000  W 
+  W4       1.0000 0.00000  0.19900  0.80100  Biso   1.000  W 

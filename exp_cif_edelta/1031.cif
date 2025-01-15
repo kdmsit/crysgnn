@@ -1,0 +1,40 @@
+data_image0
+_cell_length_a       3.59517
+_cell_length_b       5.0142
+_cell_length_c       9.64259
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.008
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Al1      1.0000 0.86000  0.71900  0.05610  Biso   1.000  Al
+  Al2      1.0000 0.86000  0.71900  0.44400  Biso   1.000  Al
+  Al3      1.0000 0.14000  0.28100  0.55600  Biso   1.000  Al
+  Al4      1.0000 0.14000  0.28100  0.94400  Biso   1.000  Al
+  O1       1.0000 0.31300  0.62700  0.06570  Biso   1.000  O 
+  O2       1.0000 0.04450  0.08890  0.11700  Biso   1.000  O 
+  O3       1.0000 0.76800  0.53700  0.25000  Biso   1.000  O 
+  O4       1.0000 0.04450  0.08890  0.38300  Biso   1.000  O 
+  O5       1.0000 0.31300  0.62700  0.43400  Biso   1.000  O 
+  O6       1.0000 0.68700  0.37300  0.56600  Biso   1.000  O 
+  O7       1.0000 0.95600  0.91100  0.61700  Biso   1.000  O 
+  O8       1.0000 0.23200  0.46300  0.75000  Biso   1.000  O 
+  O9       1.0000 0.95600  0.91100  0.88300  Biso   1.000  O 
+  O10      1.0000 0.68700  0.37300  0.93400  Biso   1.000  O 
+  Ti1      1.0000 0.18700  0.37400  0.25000  Biso   1.000  Ti
+  Ti2      1.0000 0.81300  0.62600  0.75000  Biso   1.000  Ti

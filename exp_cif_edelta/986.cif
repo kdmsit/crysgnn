@@ -1,0 +1,44 @@
+data_image0
+_cell_length_a       7.13482
+_cell_length_b       5.21645
+_cell_length_c       8.19293
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Ni1      1.0000 0.76500  0.50500  0.12400  Biso   1.000  Ni
+  Ni2      1.0000 0.76500  0.99500  0.12400  Biso   1.000  Ni
+  Ni3      1.0000 0.09080  0.75000  0.12700  Biso   1.000  Ni
+  Ni4      1.0000 0.59100  0.75000  0.37300  Biso   1.000  Ni
+  Ni5      1.0000 0.26500  0.50500  0.37600  Biso   1.000  Ni
+  Ni6      1.0000 0.26500  0.99500  0.37600  Biso   1.000  Ni
+  Ni7      1.0000 0.73500  0.00465  0.62400  Biso   1.000  Ni
+  Ni8      1.0000 0.73500  0.49500  0.62400  Biso   1.000  Ni
+  Ni9      1.0000 0.40900  0.25000  0.62700  Biso   1.000  Ni
+  Ni10     1.0000 0.90900  0.25000  0.87300  Biso   1.000  Ni
+  Ni11     1.0000 0.23500  0.00465  0.87600  Biso   1.000  Ni
+  Ni12     1.0000 0.23500  0.49500  0.87600  Biso   1.000  Ni
+  Sn1      1.0000 0.44000  0.75000  0.09580  Biso   1.000  Sn
+  Sn2      1.0000 0.09690  0.25000  0.14200  Biso   1.000  Sn
+  Sn3      1.0000 0.59700  0.25000  0.35800  Biso   1.000  Sn
+  Sn4      1.0000 0.94000  0.75000  0.40400  Biso   1.000  Sn
+  Sn5      1.0000 0.06040  0.25000  0.59600  Biso   1.000  Sn
+  Sn6      1.0000 0.40300  0.75000  0.64200  Biso   1.000  Sn
+  Sn7      1.0000 0.90300  0.75000  0.85800  Biso   1.000  Sn
+  Sn8      1.0000 0.56000  0.25000  0.90400  Biso   1.000  Sn

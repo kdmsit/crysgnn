@@ -1,0 +1,40 @@
+data_image0
+_cell_length_a       4.97965
+_cell_length_b       7.28008
+_cell_length_c       7.28008
+_cell_angle_alpha    96.7171
+_cell_angle_beta     109.999
+_cell_angle_gamma    70.0009
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Si1      1.0000 0.25000  0.00000  0.00000  Biso   1.000  Si
+  Si2      1.0000 0.75000  0.00000  0.00000  Biso   1.000  Si
+  Si3      1.0000 0.33200  0.50000  0.16400  Biso   1.000  Si
+  Si4      1.0000 0.83200  0.83600  0.50000  Biso   1.000  Si
+  Si5      1.0000 0.16800  0.16400  0.50000  Biso   1.000  Si
+  Si6      1.0000 0.66800  0.50000  0.83600  Biso   1.000  Si
+  W1       1.0000 0.92500  0.29900  0.14900  Biso   1.000  W 
+  W2       1.0000 0.72400  0.70100  0.14900  Biso   1.000  W 
+  W3       1.0000 0.57500  0.14900  0.29900  Biso   1.000  W 
+  W4       1.0000 0.22400  0.85100  0.29900  Biso   1.000  W 
+  W5       1.0000 0.25000  0.50000  0.50000  Biso   1.000  W 
+  W6       1.0000 0.75000  0.50000  0.50000  Biso   1.000  W 
+  W7       1.0000 0.77600  0.14900  0.70100  Biso   1.000  W 
+  W8       1.0000 0.42500  0.85100  0.70100  Biso   1.000  W 
+  W9       1.0000 0.07520  0.70100  0.85100  Biso   1.000  W 
+  W10      1.0000 0.27600  0.29900  0.85100  Biso   1.000  W 

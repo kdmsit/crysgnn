@@ -1,0 +1,44 @@
+data_image0
+_cell_length_a       10.071
+_cell_length_b       10.0707
+_cell_length_c       6.45023
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.001
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Ce1      1.0000 0.33300  0.66700  0.03080  Biso   1.000  Ce
+  Ce2      1.0000 0.53900  0.07780  0.05570  Biso   1.000  Ce
+  Ce3      1.0000 0.53900  0.46100  0.05580  Biso   1.000  Ce
+  Ce4      1.0000 0.92200  0.46100  0.05580  Biso   1.000  Ce
+  Ce5      1.0000 0.12600  0.25100  0.24800  Biso   1.000  Ce
+  Ce6      1.0000 0.12600  0.87400  0.24800  Biso   1.000  Ce
+  Ce7      1.0000 0.74900  0.87400  0.24800  Biso   1.000  Ce
+  Ce8      1.0000 0.66700  0.33300  0.53100  Biso   1.000  Ce
+  Ce9      1.0000 0.46100  0.92200  0.55600  Biso   1.000  Ce
+  Ce10     1.0000 0.07790  0.53900  0.55600  Biso   1.000  Ce
+  Ce11     1.0000 0.46100  0.53900  0.55600  Biso   1.000  Ce
+  Ce12     1.0000 0.87400  0.74900  0.74800  Biso   1.000  Ce
+  Ce13     1.0000 0.25100  0.12600  0.74800  Biso   1.000  Ce
+  Ce14     1.0000 0.87400  0.12600  0.74800  Biso   1.000  Ce
+  Ni1      1.0000 0.37600  0.18800  0.30000  Biso   1.000  Ni
+  Ni2      1.0000 0.81200  0.18800  0.30000  Biso   1.000  Ni
+  Ni3      1.0000 0.81200  0.62400  0.30000  Biso   1.000  Ni
+  Ni4      1.0000 0.18800  0.81200  0.80000  Biso   1.000  Ni
+  Ni5      1.0000 0.62400  0.81200  0.80000  Biso   1.000  Ni
+  Ni6      1.0000 0.18800  0.37600  0.80000  Biso   1.000  Ni

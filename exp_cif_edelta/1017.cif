@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       5.60184
+_cell_length_b       6.19481
+_cell_length_c       8.07209
+_cell_angle_alpha    112.564
+_cell_angle_beta     99.2424
+_cell_angle_gamma    65.2559
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Ca1      1.0000 0.75000  0.83300  0.16600  Biso   1.000  Ca
+  Ca2      1.0000 0.25000  0.16700  0.83400  Biso   1.000  Ca
+  H1       1.0000 0.23400  0.16900  0.32600  Biso   1.000  H 
+  H2       1.0000 0.26600  0.65700  0.32600  Biso   1.000  H 
+  H3       1.0000 0.40500  0.24900  0.49700  Biso   1.000  H 
+  H4       1.0000 0.09470  0.74700  0.49700  Biso   1.000  H 
+  H5       1.0000 0.90500  0.25300  0.50300  Biso   1.000  H 
+  H6       1.0000 0.59500  0.75100  0.50300  Biso   1.000  H 
+  H7       1.0000 0.73400  0.34300  0.67400  Biso   1.000  H 
+  H8       1.0000 0.76600  0.83100  0.67400  Biso   1.000  H 
+  O1       1.0000 0.59000  0.18600  0.04610  Biso   1.000  O 
+  O2       1.0000 0.91000  0.36000  0.04610  Biso   1.000  O 
+  O3       1.0000 0.92000  0.18000  0.27100  Biso   1.000  O 
+  O4       1.0000 0.58000  0.59100  0.27100  Biso   1.000  O 
+  O5       1.0000 0.41600  0.15000  0.36700  Biso   1.000  O 
+  O6       1.0000 0.08440  0.71800  0.36700  Biso   1.000  O 
+  O7       1.0000 0.91600  0.28200  0.63300  Biso   1.000  O 
+  O8       1.0000 0.58400  0.85000  0.63300  Biso   1.000  O 
+  O9       1.0000 0.42000  0.40900  0.72900  Biso   1.000  O 
+  O10      1.0000 0.07960  0.82000  0.72900  Biso   1.000  O 
+  O11      1.0000 0.09020  0.64000  0.95400  Biso   1.000  O 
+  O12      1.0000 0.41000  0.81400  0.95400  Biso   1.000  O 
+  S1       1.0000 0.75000  0.32900  0.15800  Biso   1.000  S 
+  S2       1.0000 0.25000  0.67100  0.84200  Biso   1.000  S 

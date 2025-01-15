@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       6.66615
+_cell_length_b       6.66615
+_cell_length_c       7.62406
+_cell_angle_alpha    107.531
+_cell_angle_beta     72.469
+_cell_angle_gamma    95.2537
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Fe1      1.0000 0.69300  0.30700  0.15400  Biso   1.000  Fe
+  Fe2      1.0000 0.30700  0.30700  0.50000  Biso   1.000  Fe
+  Fe3      1.0000 0.69300  0.69300  0.50000  Biso   1.000  Fe
+  Fe4      1.0000 0.30700  0.69300  0.84600  Biso   1.000  Fe
+  Mo1      1.0000 0.28400  0.28400  0.00000  Biso   1.000  Mo
+  Mo2      1.0000 0.71600  0.71600  0.00000  Biso   1.000  Mo
+  Mo3      1.0000 0.28200  0.71800  0.36200  Biso   1.000  Mo
+  Mo4      1.0000 0.71800  0.28200  0.63800  Biso   1.000  Mo
+  O1       1.0000 0.01150  0.31700  0.07210  Biso   1.000  O 
+  O2       1.0000 0.68300  0.98900  0.07210  Biso   1.000  O 
+  O3       1.0000 0.34900  0.65100  0.08430  Biso   1.000  O 
+  O4       1.0000 0.34000  0.35700  0.24300  Biso   1.000  O 
+  O5       1.0000 0.64300  0.66000  0.24300  Biso   1.000  O 
+  O6       1.0000 0.00946  0.68400  0.42100  Biso   1.000  O 
+  O7       1.0000 0.31600  0.99100  0.42100  Biso   1.000  O 
+  O8       1.0000 0.65400  0.34600  0.43500  Biso   1.000  O 
+  O9       1.0000 0.34600  0.65400  0.56500  Biso   1.000  O 
+  O10      1.0000 0.68400  0.00946  0.57900  Biso   1.000  O 
+  O11      1.0000 0.99100  0.31600  0.57900  Biso   1.000  O 
+  O12      1.0000 0.35700  0.34000  0.75700  Biso   1.000  O 
+  O13      1.0000 0.66000  0.64300  0.75700  Biso   1.000  O 
+  O14      1.0000 0.65100  0.34900  0.91600  Biso   1.000  O 
+  O15      1.0000 0.31700  0.01150  0.92800  Biso   1.000  O 
+  O16      1.0000 0.98900  0.68300  0.92800  Biso   1.000  O 

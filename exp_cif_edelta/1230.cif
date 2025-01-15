@@ -1,0 +1,32 @@
+data_image0
+_cell_length_a       4.04737
+_cell_length_b       4.04733
+_cell_length_c       7.17708
+_cell_angle_alpha    90
+_cell_angle_beta     89.9993
+_cell_angle_gamma    120
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Cu1      1.0000 0.66700  0.33300  0.04820  Biso   1.000  Cu
+  Cu2      1.0000 0.00001  0.00000  0.19800  Biso   1.000  Cu
+  Cu3      1.0000 0.66700  0.33300  0.39900  Biso   1.000  Cu
+  Cu4      1.0000 0.33300  0.66700  0.60100  Biso   1.000  Cu
+  Cu5      1.0000 1.00000  1.00000  0.80200  Biso   1.000  Cu
+  Cu6      1.0000 0.33300  0.66700  0.95200  Biso   1.000  Cu
+  P1       1.0000 0.33300  0.66700  0.27500  Biso   1.000  P 
+  P2       1.0000 0.66700  0.33300  0.72500  Biso   1.000  P 

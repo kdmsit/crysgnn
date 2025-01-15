@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       8.30437
+_cell_length_b       5.17096
+_cell_length_c       6.71779
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  B1       1.0000 0.43600  0.75000  0.19100  Biso   1.000  B 
+  B2       1.0000 0.93600  0.75000  0.30900  Biso   1.000  B 
+  B3       1.0000 0.06360  0.25000  0.69100  Biso   1.000  B 
+  B4       1.0000 0.56400  0.25000  0.80900  Biso   1.000  B 
+  F1       1.0000 0.31100  0.75000  0.04970  Biso   1.000  F 
+  F2       1.0000 0.58800  0.75000  0.10000  Biso   1.000  F 
+  F3       1.0000 0.92100  0.52800  0.18700  Biso   1.000  F 
+  F4       1.0000 0.92100  0.97200  0.18700  Biso   1.000  F 
+  F5       1.0000 0.42100  0.52800  0.31300  Biso   1.000  F 
+  F6       1.0000 0.42100  0.97200  0.31300  Biso   1.000  F 
+  F7       1.0000 0.08820  0.75000  0.40000  Biso   1.000  F 
+  F8       1.0000 0.81100  0.75000  0.45000  Biso   1.000  F 
+  F9       1.0000 0.18900  0.25000  0.55000  Biso   1.000  F 
+  F10      1.0000 0.91200  0.25000  0.60000  Biso   1.000  F 
+  F11      1.0000 0.57900  0.02780  0.68700  Biso   1.000  F 
+  F12      1.0000 0.57900  0.47200  0.68700  Biso   1.000  F 
+  F13      1.0000 0.07900  0.02780  0.81300  Biso   1.000  F 
+  F14      1.0000 0.07900  0.47200  0.81300  Biso   1.000  F 
+  F15      1.0000 0.41200  0.25000  0.90000  Biso   1.000  F 
+  F16      1.0000 0.68900  0.25000  0.95000  Biso   1.000  F 
+  K1       1.0000 0.18200  0.25000  0.16000  Biso   1.000  K 
+  K2       1.0000 0.68200  0.25000  0.34000  Biso   1.000  K 
+  K3       1.0000 0.31800  0.75000  0.66000  Biso   1.000  K 
+  K4       1.0000 0.81800  0.75000  0.84000  Biso   1.000  K 

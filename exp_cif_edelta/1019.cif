@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       7.94684
+_cell_length_b       7.94684
+_cell_length_c       7.94684
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Ni1      1.0000 0.08950  0.17900  0.26800  Biso   1.000  Ni
+  Ni2      1.0000 0.66100  0.32100  0.33900  Biso   1.000  Ni
+  Ni3      1.0000 0.01840  0.67900  0.33900  Biso   1.000  Ni
+  Ni4      1.0000 0.66100  0.67900  0.33900  Biso   1.000  Ni
+  Ni5      1.0000 0.08950  0.17900  0.91100  Biso   1.000  Ni
+  Ni6      1.0000 0.08950  0.82100  0.91100  Biso   1.000  Ni
+  Ni7      1.0000 0.73200  0.82100  0.91100  Biso   1.000  Ni
+  Ni8      1.0000 0.66100  0.32100  0.98200  Biso   1.000  Ni
+  Ti1      1.0000 0.37500  0.25000  0.12500  Biso   1.000  Ti
+  Ti2      1.0000 0.87500  0.25000  0.12500  Biso   1.000  Ti
+  Ti3      1.0000 0.87500  0.75000  0.12500  Biso   1.000  Ti
+  Ti4      1.0000 0.31300  0.00000  0.31300  Biso   1.000  Ti
+  Ti5      1.0000 0.31300  0.62700  0.31300  Biso   1.000  Ti
+  Ti6      1.0000 0.68700  1.00000  0.31300  Biso   1.000  Ti
+  Ti7      1.0000 0.06330  0.12700  0.56300  Biso   1.000  Ti
+  Ti8      1.0000 0.06330  0.50000  0.56300  Biso   1.000  Ti
+  Ti9      1.0000 0.43700  0.50000  0.56300  Biso   1.000  Ti
+  Ti10     1.0000 0.87500  0.75000  0.62500  Biso   1.000  Ti
+  Ti11     1.0000 0.31300  0.00000  0.68700  Biso   1.000  Ti
+  Ti12     1.0000 0.68700  0.00000  0.68700  Biso   1.000  Ti
+  Ti13     1.0000 0.68700  0.37300  0.68700  Biso   1.000  Ti
+  Ti14     1.0000 0.06330  0.50000  0.93700  Biso   1.000  Ti
+  Ti15     1.0000 0.43700  0.50000  0.93700  Biso   1.000  Ti
+  Ti16     1.0000 0.43700  0.87300  0.93700  Biso   1.000  Ti

@@ -1,0 +1,36 @@
+data_image0
+_cell_length_a       9.03996
+_cell_length_b       7.60296
+_cell_length_c       4.81913
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Ca1      1.0000 0.82200  0.02040  0.25000  Biso   1.000  Ca
+  Ca2      1.0000 0.42600  0.15400  0.25000  Biso   1.000  Ca
+  Ca3      1.0000 0.67800  0.52000  0.25000  Biso   1.000  Ca
+  Ca4      1.0000 0.07370  0.65400  0.25000  Biso   1.000  Ca
+  Ca5      1.0000 0.92600  0.34600  0.75000  Biso   1.000  Ca
+  Ca6      1.0000 0.32200  0.48000  0.75000  Biso   1.000  Ca
+  Ca7      1.0000 0.57400  0.84600  0.75000  Biso   1.000  Ca
+  Ca8      1.0000 0.17800  0.98000  0.75000  Biso   1.000  Ca
+  Si1      1.0000 0.10600  0.25200  0.25000  Biso   1.000  Si
+  Si2      1.0000 0.39400  0.75200  0.25000  Biso   1.000  Si
+  Si3      1.0000 0.60600  0.24800  0.75000  Biso   1.000  Si
+  Si4      1.0000 0.89400  0.74800  0.75000  Biso   1.000  Si

@@ -1,0 +1,54 @@
+data_image0
+_cell_length_a       11.3385
+_cell_length_b       11.3385
+_cell_length_c       6.97279
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Br1      1.0000 0.75000  0.25000  0.00000  Biso   1.000  Br
+  Br2      1.0000 0.25000  0.75000  0.00000  Biso   1.000  Br
+  Br3      1.0000 0.16100  0.04260  0.10200  Biso   1.000  Br
+  Br4      1.0000 0.45700  0.16100  0.10200  Biso   1.000  Br
+  Br5      1.0000 0.04260  0.33900  0.10200  Biso   1.000  Br
+  Br6      1.0000 0.33900  0.45700  0.10200  Biso   1.000  Br
+  Br7      1.0000 0.84600  0.54000  0.37500  Biso   1.000  Br
+  Br8      1.0000 0.54000  0.65400  0.37500  Biso   1.000  Br
+  Br9      1.0000 0.96000  0.84600  0.37500  Biso   1.000  Br
+  Br10     1.0000 0.65400  0.96000  0.37500  Biso   1.000  Br
+  Br11     1.0000 0.75000  0.25000  0.50000  Biso   1.000  Br
+  Br12     1.0000 0.25000  0.75000  0.50000  Biso   1.000  Br
+  Br13     1.0000 0.34600  0.04020  0.62500  Biso   1.000  Br
+  Br14     1.0000 0.04020  0.15400  0.62500  Biso   1.000  Br
+  Br15     1.0000 0.46000  0.34600  0.62500  Biso   1.000  Br
+  Br16     1.0000 0.15400  0.46000  0.62500  Biso   1.000  Br
+  Br17     1.0000 0.66100  0.54300  0.89800  Biso   1.000  Br
+  Br18     1.0000 0.95700  0.66100  0.89800  Biso   1.000  Br
+  Br19     1.0000 0.54300  0.83900  0.89800  Biso   1.000  Br
+  Br20     1.0000 0.83900  0.95700  0.89800  Biso   1.000  Br
+  Eu1      1.0000 0.75000  0.75000  0.14500  Biso   1.000  Eu
+  Eu2      1.0000 0.91300  0.10200  0.24800  Biso   1.000  Eu
+  Eu3      1.0000 0.58700  0.39800  0.24800  Biso   1.000  Eu
+  Eu4      1.0000 0.10200  0.58700  0.24800  Biso   1.000  Eu
+  Eu5      1.0000 0.39800  0.91300  0.24800  Biso   1.000  Eu
+  Eu6      1.0000 0.60200  0.08720  0.75200  Biso   1.000  Eu
+  Eu7      1.0000 0.89800  0.41300  0.75200  Biso   1.000  Eu
+  Eu8      1.0000 0.41300  0.60200  0.75200  Biso   1.000  Eu
+  Eu9      1.0000 0.08720  0.89800  0.75200  Biso   1.000  Eu
+  Eu10     1.0000 0.25000  0.25000  0.85500  Biso   1.000  Eu

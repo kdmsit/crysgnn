@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       7.22535
+_cell_length_b       10.4238
+_cell_length_c       11.4285
+_cell_angle_alpha    90
+_cell_angle_beta     125.352
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Al1      1.0000 0.93000  0.55200  0.18500  Biso   1.000  Al
+  Al2      1.0000 0.06990  0.05170  0.31500  Biso   1.000  Al
+  Al3      1.0000 0.93000  0.94800  0.68500  Biso   1.000  Al
+  Al4      1.0000 0.06990  0.44800  0.81500  Biso   1.000  Al
+  Cl1      1.0000 0.76700  0.71700  0.04880  Biso   1.000  Cl
+  Cl2      1.0000 0.87300  0.37900  0.06520  Biso   1.000  Cl
+  Cl3      1.0000 0.70800  0.08050  0.17200  Biso   1.000  Cl
+  Cl4      1.0000 0.20900  0.03430  0.19200  Biso   1.000  Cl
+  Cl5      1.0000 0.79100  0.53400  0.30800  Biso   1.000  Cl
+  Cl6      1.0000 0.29200  0.58000  0.32800  Biso   1.000  Cl
+  Cl7      1.0000 0.12700  0.87900  0.43500  Biso   1.000  Cl
+  Cl8      1.0000 0.23300  0.21700  0.45100  Biso   1.000  Cl
+  Cl9      1.0000 0.76700  0.78300  0.54900  Biso   1.000  Cl
+  Cl10     1.0000 0.87300  0.12100  0.56500  Biso   1.000  Cl
+  Cl11     1.0000 0.70800  0.42000  0.67200  Biso   1.000  Cl
+  Cl12     1.0000 0.20900  0.46600  0.69200  Biso   1.000  Cl
+  Cl13     1.0000 0.79100  0.96600  0.80800  Biso   1.000  Cl
+  Cl14     1.0000 0.29200  0.92000  0.82800  Biso   1.000  Cl
+  Cl15     1.0000 0.12700  0.62100  0.93500  Biso   1.000  Cl
+  Cl16     1.0000 0.23300  0.28300  0.95100  Biso   1.000  Cl
+  K1       1.0000 0.51100  0.80400  0.19900  Biso   1.000  K 
+  K2       1.0000 0.48900  0.30400  0.30100  Biso   1.000  K 
+  K3       1.0000 0.51100  0.69600  0.69900  Biso   1.000  K 
+  K4       1.0000 0.48900  0.19600  0.80100  Biso   1.000  K 

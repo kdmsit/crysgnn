@@ -1,0 +1,52 @@
+data_image0
+_cell_length_a       7.31111
+_cell_length_b       7.31111
+_cell_length_c       7.31111
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Al1      1.0000 0.71300  0.78700  0.21300  Biso   1.000  Al
+  Al2      1.0000 0.28700  0.28700  0.28700  Biso   1.000  Al
+  Al3      1.0000 0.78700  0.21300  0.71300  Biso   1.000  Al
+  Al4      1.0000 0.21300  0.71300  0.78700  Biso   1.000  Al
+  Na1      1.0000 0.25100  0.74900  0.24900  Biso   1.000  Na
+  Na2      1.0000 0.74900  0.24900  0.25100  Biso   1.000  Na
+  Na3      1.0000 0.24900  0.25100  0.74900  Biso   1.000  Na
+  Na4      1.0000 0.75100  0.75100  0.75100  Biso   1.000  Na
+  O1       1.0000 0.62900  0.66800  0.02200  Biso   1.000  O 
+  O2       1.0000 0.83200  0.97800  0.12900  Biso   1.000  O 
+  O3       1.0000 0.15000  0.15000  0.15000  Biso   1.000  O 
+  O4       1.0000 0.47800  0.37100  0.16800  Biso   1.000  O 
+  O5       1.0000 0.52200  0.87100  0.33200  Biso   1.000  O 
+  O6       1.0000 0.85000  0.65000  0.35000  Biso   1.000  O 
+  O7       1.0000 0.16800  0.47800  0.37100  Biso   1.000  O 
+  O8       1.0000 0.37100  0.16800  0.47800  Biso   1.000  O 
+  O9       1.0000 0.87100  0.33200  0.52200  Biso   1.000  O 
+  O10      1.0000 0.66800  0.02200  0.62900  Biso   1.000  O 
+  O11      1.0000 0.35000  0.85000  0.65000  Biso   1.000  O 
+  O12      1.0000 0.02200  0.62900  0.66800  Biso   1.000  O 
+  O13      1.0000 0.97800  0.12900  0.83200  Biso   1.000  O 
+  O14      1.0000 0.65000  0.35000  0.85000  Biso   1.000  O 
+  O15      1.0000 0.33200  0.52200  0.87100  Biso   1.000  O 
+  O16      1.0000 0.12900  0.83200  0.97800  Biso   1.000  O 
+  Si1      1.0000 0.02240  0.02240  0.02240  Biso   1.000  Si
+  Si2      1.0000 0.97800  0.52200  0.47800  Biso   1.000  Si
+  Si3      1.0000 0.47800  0.97800  0.52200  Biso   1.000  Si
+  Si4      1.0000 0.52200  0.47800  0.97800  Biso   1.000  Si

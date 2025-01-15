@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       4.59845
+_cell_length_b       8.05594
+_cell_length_c       8.05594
+_cell_angle_alpha    112.852
+_cell_angle_beta     95.4963
+_cell_angle_gamma    95.4963
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  F1       1.0000 0.86500  0.23100  0.02480  Biso   1.000  F 
+  F2       1.0000 0.63600  0.68100  0.07350  Biso   1.000  F 
+  F3       1.0000 0.37700  0.12100  0.12100  Biso   1.000  F 
+  F4       1.0000 0.12500  0.56700  0.17800  Biso   1.000  F 
+  F5       1.0000 0.86500  0.02480  0.23100  Biso   1.000  F 
+  F6       1.0000 0.61200  0.48300  0.28100  Biso   1.000  F 
+  F7       1.0000 0.36400  0.92600  0.31900  Biso   1.000  F 
+  F8       1.0000 0.11100  0.36400  0.36400  Biso   1.000  F 
+  F9       1.0000 0.87500  0.82200  0.43300  Biso   1.000  F 
+  F10      1.0000 0.61200  0.28100  0.48300  Biso   1.000  F 
+  F11      1.0000 0.38800  0.71900  0.51700  Biso   1.000  F 
+  F12      1.0000 0.12500  0.17800  0.56700  Biso   1.000  F 
+  F13      1.0000 0.88900  0.63600  0.63600  Biso   1.000  F 
+  F14      1.0000 0.63600  0.07350  0.68100  Biso   1.000  F 
+  F15      1.0000 0.38800  0.51700  0.71900  Biso   1.000  F 
+  F16      1.0000 0.13500  0.97500  0.76900  Biso   1.000  F 
+  F17      1.0000 0.87500  0.43300  0.82200  Biso   1.000  F 
+  F18      1.0000 0.62300  0.87900  0.87900  Biso   1.000  F 
+  F19      1.0000 0.36400  0.31900  0.92600  Biso   1.000  F 
+  F20      1.0000 0.13500  0.76900  0.97500  Biso   1.000  F 
+  Mo1      1.0000 0.00000  0.78700  0.21300  Biso   1.000  Mo
+  Mo2      1.0000 0.72300  0.26400  0.26400  Biso   1.000  Mo
+  Mo3      1.0000 0.27700  0.73600  0.73600  Biso   1.000  Mo
+  Mo4      1.0000 0.00000  0.21300  0.78700  Biso   1.000  Mo

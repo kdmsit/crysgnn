@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       9.38259
+_cell_length_b       7.76579
+_cell_length_c       8.11152
+_cell_angle_alpha    90
+_cell_angle_beta     102.513
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  As1      1.0000 0.75700  0.99200  0.06330  Biso   1.000  As
+  As2      1.0000 0.76100  0.51100  0.06650  Biso   1.000  As
+  As3      1.0000 0.93200  0.75500  0.10800  Biso   1.000  As
+  As4      1.0000 0.38600  0.42400  0.22000  Biso   1.000  As
+  As5      1.0000 0.61400  0.92400  0.28000  Biso   1.000  As
+  As6      1.0000 0.06750  0.25500  0.39200  Biso   1.000  As
+  As7      1.0000 0.23900  0.01130  0.43300  Biso   1.000  As
+  As8      1.0000 0.24300  0.49200  0.43700  Biso   1.000  As
+  As9      1.0000 0.75700  0.50800  0.56300  Biso   1.000  As
+  As10     1.0000 0.76100  0.98900  0.56700  Biso   1.000  As
+  As11     1.0000 0.93200  0.74500  0.60800  Biso   1.000  As
+  As12     1.0000 0.38600  0.07570  0.72000  Biso   1.000  As
+  As13     1.0000 0.61400  0.57600  0.78000  Biso   1.000  As
+  As14     1.0000 0.06750  0.24500  0.89200  Biso   1.000  As
+  As15     1.0000 0.23900  0.48900  0.93300  Biso   1.000  As
+  As16     1.0000 0.24300  0.00795  0.93700  Biso   1.000  As
+  Zn1      1.0000 0.91900  0.24900  0.10500  Biso   1.000  Zn
+  Zn2      1.0000 0.38900  0.10000  0.22300  Biso   1.000  Zn
+  Zn3      1.0000 0.61100  0.60000  0.27700  Biso   1.000  Zn
+  Zn4      1.0000 0.08060  0.74900  0.39500  Biso   1.000  Zn
+  Zn5      1.0000 0.91900  0.25100  0.60500  Biso   1.000  Zn
+  Zn6      1.0000 0.38900  0.40000  0.72300  Biso   1.000  Zn
+  Zn7      1.0000 0.61100  0.90000  0.77700  Biso   1.000  Zn
+  Zn8      1.0000 0.08060  0.75100  0.89500  Biso   1.000  Zn

@@ -1,0 +1,52 @@
+data_image0
+_cell_length_a       12.1648
+_cell_length_b       5.88224
+_cell_length_c       9.73907
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Br1      1.0000 0.81300  0.25000  0.80200  Biso   1.000  Br
+  Br2      1.0000 0.68700  0.75000  0.30200  Biso   1.000  Br
+  Br3      1.0000 0.31300  0.25000  0.69800  Biso   1.000  Br
+  Br4      1.0000 0.18700  0.75000  0.19800  Biso   1.000  Br
+  Br5      1.0000 0.37000  0.25000  0.07090  Biso   1.000  Br
+  Br6      1.0000 0.13000  0.75000  0.57100  Biso   1.000  Br
+  Br7      1.0000 0.87000  0.25000  0.42900  Biso   1.000  Br
+  Br8      1.0000 0.63000  0.75000  0.92900  Biso   1.000  Br
+  O1       1.0000 0.41900  0.99700  0.38800  Biso   1.000  O 
+  O2       1.0000 0.08060  0.00341  0.88800  Biso   1.000  O 
+  O3       1.0000 0.91900  0.50300  0.11200  Biso   1.000  O 
+  O4       1.0000 0.58100  0.49700  0.61200  Biso   1.000  O 
+  O5       1.0000 0.58100  0.00341  0.61200  Biso   1.000  O 
+  O6       1.0000 0.91900  0.99700  0.11200  Biso   1.000  O 
+  O7       1.0000 0.08060  0.49700  0.88800  Biso   1.000  O 
+  O8       1.0000 0.41900  0.50300  0.38800  Biso   1.000  O 
+  Pb1      1.0000 0.07690  0.25000  0.08090  Biso   1.000  Pb
+  Pb2      1.0000 0.42300  0.75000  0.58100  Biso   1.000  Pb
+  Pb3      1.0000 0.57700  0.25000  0.41900  Biso   1.000  Pb
+  Pb4      1.0000 0.92300  0.75000  0.91900  Biso   1.000  Pb
+  Pb5      1.0000 0.56100  0.25000  0.79400  Biso   1.000  Pb
+  Pb6      1.0000 0.93900  0.75000  0.29400  Biso   1.000  Pb
+  Pb7      1.0000 0.06100  0.25000  0.70600  Biso   1.000  Pb
+  Pb8      1.0000 0.43900  0.75000  0.20600  Biso   1.000  Pb
+  Pb9      1.0000 0.28100  0.25000  0.36800  Biso   1.000  Pb
+  Pb10     1.0000 0.21900  0.75000  0.86800  Biso   1.000  Pb
+  Pb11     1.0000 0.78100  0.25000  0.13200  Biso   1.000  Pb
+  Pb12     1.0000 0.71900  0.75000  0.63200  Biso   1.000  Pb

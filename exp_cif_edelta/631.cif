@@ -1,0 +1,34 @@
+data_image0
+_cell_length_a       6.60719
+_cell_length_b       7.42325
+_cell_length_c       8.01728
+_cell_angle_alpha    104.697
+_cell_angle_beta     90
+_cell_angle_gamma    116.425
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Te1      1.0000 0.03800  0.36200  0.07940  Biso   1.000  Te
+  Te2      1.0000 0.13200  0.00000  0.25000  Biso   1.000  Te
+  Te3      1.0000 0.67600  0.63800  0.42100  Biso   1.000  Te
+  Te4      1.0000 0.32400  0.36200  0.57900  Biso   1.000  Te
+  Te5      1.0000 0.86800  0.00000  0.75000  Biso   1.000  Te
+  Te6      1.0000 0.96200  0.63800  0.92100  Biso   1.000  Te
+  Tl1      1.0000 0.54500  0.78400  0.04670  Biso   1.000  Tl
+  Tl2      1.0000 0.76100  0.21600  0.45300  Biso   1.000  Tl
+  Tl3      1.0000 0.23900  0.78400  0.54700  Biso   1.000  Tl
+  Tl4      1.0000 0.45500  0.21600  0.95300  Biso   1.000  Tl

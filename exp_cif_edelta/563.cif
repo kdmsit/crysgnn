@@ -1,0 +1,48 @@
+data_image0
+_cell_length_a       6.1242
+_cell_length_b       10.4189
+_cell_length_c       7.73004
+_cell_angle_alpha    90
+_cell_angle_beta     98.4455
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.76400  0.92000  0.24700  Biso   1.000  C 
+  C2       1.0000 0.23600  0.42000  0.25300  Biso   1.000  C 
+  C3       1.0000 0.76400  0.58000  0.74700  Biso   1.000  C 
+  C4       1.0000 0.23600  0.08000  0.75300  Biso   1.000  C 
+  Cs1      1.0000 0.26300  0.72000  0.02230  Biso   1.000  Cs
+  Cs2      1.0000 0.24400  0.08280  0.19300  Biso   1.000  Cs
+  Cs3      1.0000 0.75600  0.58300  0.30700  Biso   1.000  Cs
+  Cs4      1.0000 0.73700  0.22000  0.47800  Biso   1.000  Cs
+  Cs5      1.0000 0.26300  0.78000  0.52200  Biso   1.000  Cs
+  Cs6      1.0000 0.24400  0.41700  0.69300  Biso   1.000  Cs
+  Cs7      1.0000 0.75600  0.91700  0.80700  Biso   1.000  Cs
+  Cs8      1.0000 0.73700  0.28000  0.97800  Biso   1.000  Cs
+  O1       1.0000 0.37600  0.37600  0.15600  Biso   1.000  O 
+  O2       1.0000 0.74100  0.03560  0.18100  Biso   1.000  O 
+  O3       1.0000 0.92800  0.84900  0.21300  Biso   1.000  O 
+  O4       1.0000 0.07190  0.34900  0.28700  Biso   1.000  O 
+  O5       1.0000 0.25900  0.53600  0.31900  Biso   1.000  O 
+  O6       1.0000 0.62400  0.87600  0.34400  Biso   1.000  O 
+  O7       1.0000 0.37600  0.12400  0.65600  Biso   1.000  O 
+  O8       1.0000 0.74100  0.46400  0.68100  Biso   1.000  O 
+  O9       1.0000 0.92800  0.65100  0.71300  Biso   1.000  O 
+  O10      1.0000 0.07190  0.15100  0.78700  Biso   1.000  O 
+  O11      1.0000 0.25900  0.96400  0.81900  Biso   1.000  O 
+  O12      1.0000 0.62400  0.62400  0.84400  Biso   1.000  O 
